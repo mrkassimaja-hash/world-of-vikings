@@ -1,0 +1,9 @@
+{
+  "name":"world-of-vikings-shop",
+  "version":"1.0.0",
+  "private":true,
+  "description":"Enkel nettbutikk med SQLite-ordre, lager og SMTP-varsling",
+  "engines":{"node":">=22.13.0"},
+  "scripts":{"start":"node server.js","test":"node test.js"},
+  "dependencies":{"nodemailer":"^6.10.1"}
+}

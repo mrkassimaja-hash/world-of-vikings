@@ -1,0 +1,23 @@
+'use strict';
+const assert=require('node:assert/strict'),{spawn}=require('node:child_process'),fs=require('node:fs'),os=require('node:os'),path=require('node:path');
+(async()=>{const dir=fs.mkdtempSync(path.join(os.tmpdir(),'wov-test-'));const port=19000+Math.floor(Math.random()*3000);const key='test-only-secret-key-with-more-than-20-characters';const child=spawn(process.execPath,['server.js'],{cwd:__dirname,env:{...process.env,ADMIN_KEY:key,DATABASE_PATH:path.join(dir,'test.sqlite'),PORT:String(port)},stdio:'pipe'});try{
+ const base=`http://127.0.0.1:${port}`;let ready=false;for(let i=0;i<50;i++){try{const r=await fetch(base+'/api/products');if(r.ok){ready=true;break}}catch{}await new Promise(r=>setTimeout(r,100))}assert(ready,'server did not start');
+ const api=async(route,method='GET',data,admin=false)=>{const r=await fetch(base+route,{method,headers:{'content-type':'application/json',...(admin?{'x-admin-key':key}:{})},body:data===undefined?undefined:JSON.stringify(data)});return{status:r.status,data:await r.json()}};
+ const legal=(await api('/api/legal')).data;assert(legal.terms.includes('SALGSBETINGELSER'));assert(legal.privacy.includes('PERSONVERNERKLÆRING'));
+ assert.equal((await api('/api/admin/legal','POST',{key:'terms',value:'X'.repeat(90)})).status,401);
+ assert.equal((await api('/api/admin/legal','POST',{key:'terms',value:'Oppdaterte salgsbetingelser test. '.repeat(4)},true)).status,200);
+ assert((await api('/api/legal')).data.terms.startsWith('Oppdaterte'));
+ let products=(await api('/api/products')).data.products;assert.equal(products.length,238);assert.equal(products.find(x=>x.sku==='card:37').name,'Odin');assert.equal(products.find(x=>x.sku==='card:37').stock,0);
+ assert.equal((await api('/api/admin/products','POST',{sku:'card:37',stock:2,priceOre:1000},true)).status,200);
+ assert.equal((await api('/api/admin/products','POST',{sku:'album',stock:1,priceOre:12900},true)).status,200);
+ const customer={name:'Test Kunde',email:'test@example.org',phone:'12345678',address:'Testveien 1',postal:'1234',city:'Testby',note:''};const payload={customer,items:[{sku:'card:37',quantity:1},{sku:'album',quantity:1}]};
+ const made=await api('/api/orders','POST',payload);assert.equal(made.status,201);assert.equal(made.data.totalOre,18900);
+ let after=(await api('/api/products')).data.products;assert.equal(after.find(x=>x.sku==='card:37').stock,1);assert.equal(after.find(x=>x.sku==='album').stock,0);
+ assert.equal((await api('/api/orders','POST',payload)).status,409,'out of stock order rejected');
+ const orders=(await api('/api/admin/orders','GET',undefined,true)).data.orders;assert.equal(orders.length,1);assert.equal(orders[0].mail_status,'venter');assert.equal(orders[0].customer_mail_status,'venter');assert.equal(orders[0].total_ore,18900);
+ assert.equal((await api('/api/admin/status','POST',{id:made.data.id,status:'kansellert'},true)).status,200);
+ after=(await api('/api/products')).data.products;assert.equal(after.find(x=>x.sku==='card:37').stock,2);assert.equal(after.find(x=>x.sku==='album').stock,1);
+ assert.equal((await api('/api/admin/status','POST',{id:made.data.id,status:'kansellert'},true)).status,409);after=(await api('/api/products')).data.products;assert.equal(after.find(x=>x.sku==='album').stock,1,'double cancel did not increment twice');
+ assert.equal((await api('/api/admin/products')).status,401);assert.equal((await api('/api/orders','POST',{...payload,items:[{sku:'card:37',quantity:2}]})).status,400);
+ console.log('BESTÅTT: 238 produkter, ordremottak, prisberegning, fast porto, lagerfratrekk, utsolgtkontroll, kansellering, admin-tilgang');
+}finally{child.kill();fs.rmSync(dir,{recursive:true,force:true})}})().catch(e=>{console.error(e);process.exitCode=1});

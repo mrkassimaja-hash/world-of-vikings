@@ -1,0 +1,1182 @@
+[
+  {
+    "number": 1,
+    "name": "Yggdrasil 1/4",
+    "category": "Ygdrasil og de ni verdener"
+  },
+  {
+    "number": 2,
+    "name": "Yggdrasil 2/4",
+    "category": "Ygdrasil og de ni verdener"
+  },
+  {
+    "number": 3,
+    "name": "Yggdrasil 3/4",
+    "category": "Ygdrasil og de ni verdener"
+  },
+  {
+    "number": 4,
+    "name": "Yggdrasil 4/4",
+    "category": "Ygdrasil og de ni verdener"
+  },
+  {
+    "number": 5,
+    "name": "Åsgard",
+    "category": "Ygdrasil og de ni verdener"
+  },
+  {
+    "number": 6,
+    "name": "Midgard",
+    "category": "Ygdrasil og de ni verdener"
+  },
+  {
+    "number": 7,
+    "name": "Helheim",
+    "category": "Ygdrasil og de ni verdener"
+  },
+  {
+    "number": 8,
+    "name": "Jotunheim",
+    "category": "Ygdrasil og de ni verdener"
+  },
+  {
+    "number": 9,
+    "name": "Vanheim",
+    "category": "Ygdrasil og de ni verdener"
+  },
+  {
+    "number": 10,
+    "name": "Alvheim",
+    "category": "Ygdrasil og de ni verdener"
+  },
+  {
+    "number": 11,
+    "name": "Svartalvheim",
+    "category": "Ygdrasil og de ni verdener"
+  },
+  {
+    "number": 12,
+    "name": "Nivlheim",
+    "category": "Ygdrasil og de ni verdener"
+  },
+  {
+    "number": 13,
+    "name": "Muspellsheim",
+    "category": "Ygdrasil og de ni verdener"
+  },
+  {
+    "number": 14,
+    "name": "Ginnungagap",
+    "category": "Urtiden og verdens opprinnelse"
+  },
+  {
+    "number": 15,
+    "name": "Yme",
+    "category": "Urtiden og verdens opprinnelse"
+  },
+  {
+    "number": 16,
+    "name": "Audhumbla",
+    "category": "Urtiden og verdens opprinnelse"
+  },
+  {
+    "number": 17,
+    "name": "Verdens skapelse",
+    "category": "Urtiden og verdens opprinnelse"
+  },
+  {
+    "number": 18,
+    "name": "Utgards-Loke",
+    "category": "Jotner"
+  },
+  {
+    "number": 19,
+    "name": "Fornjot",
+    "category": "Jotner"
+  },
+  {
+    "number": 20,
+    "name": "Tjatse",
+    "category": "Jotner"
+  },
+  {
+    "number": 21,
+    "name": "Byleist",
+    "category": "Jotner"
+  },
+  {
+    "number": 22,
+    "name": "Rån",
+    "category": "Jotner"
+  },
+  {
+    "number": 23,
+    "name": "Vavtrudne",
+    "category": "Jotner"
+  },
+  {
+    "number": 24,
+    "name": "Suttung",
+    "category": "Jotner"
+  },
+  {
+    "number": 25,
+    "name": "Heimdalls mødre",
+    "category": "Jotner"
+  },
+  {
+    "number": 26,
+    "name": "Trym",
+    "category": "Jotner"
+  },
+  {
+    "number": 27,
+    "name": "Helbinde",
+    "category": "Jotner"
+  },
+  {
+    "number": 28,
+    "name": "Bestla",
+    "category": "Jotner"
+  },
+  {
+    "number": 29,
+    "name": "Boltorn",
+    "category": "Jotner"
+  },
+  {
+    "number": 30,
+    "name": "Fårbaute",
+    "category": "Jotner"
+  },
+  {
+    "number": 31,
+    "name": "Jernsaksa",
+    "category": "Jotner"
+  },
+  {
+    "number": 32,
+    "name": "Surt",
+    "category": "Jotner"
+  },
+  {
+    "number": 33,
+    "name": "Rungne",
+    "category": "Jotner"
+  },
+  {
+    "number": 34,
+    "name": "Mokkurkalve",
+    "category": "Jotner"
+  },
+  {
+    "number": 35,
+    "name": "Angerboda",
+    "category": "Jotner"
+  },
+  {
+    "number": 36,
+    "name": "Æge",
+    "category": "Jotner"
+  },
+  {
+    "number": 37,
+    "name": "Odin",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 38,
+    "name": "Frigg",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 39,
+    "name": "Fulla",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 40,
+    "name": "Balder",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 41,
+    "name": "Skade",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 42,
+    "name": "Brage",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 43,
+    "name": "Idunn",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 44,
+    "name": "Heimdall",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 45,
+    "name": "Tor",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 46,
+    "name": "Eir",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 47,
+    "name": "Ull",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 48,
+    "name": "Hod",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 49,
+    "name": "Forsete",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 50,
+    "name": "Trud",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 51,
+    "name": "Mode",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 52,
+    "name": "Bore",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 53,
+    "name": "Bor",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 54,
+    "name": "Tyr",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 55,
+    "name": "Magne",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 56,
+    "name": "Siv",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 57,
+    "name": "Vilje",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 58,
+    "name": "Ve",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 59,
+    "name": "Våle",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 60,
+    "name": "Od",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 61,
+    "name": "Gnå",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 62,
+    "name": "Nanna",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 63,
+    "name": "Mime",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 64,
+    "name": "Meile",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 65,
+    "name": "Sigyn",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 66,
+    "name": "Vidar",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 67,
+    "name": "Skjold",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 68,
+    "name": "Fjorgyn",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 69,
+    "name": "Hermod",
+    "category": "Guder - æser"
+  },
+  {
+    "number": 70,
+    "name": "Frøy",
+    "category": "Guder - vaner"
+  },
+  {
+    "number": 71,
+    "name": "Njord",
+    "category": "Guder - vaner"
+  },
+  {
+    "number": 72,
+    "name": "Frøya",
+    "category": "Guder - vaner"
+  },
+  {
+    "number": 73,
+    "name": "Noss",
+    "category": "Guder - vaner"
+  },
+  {
+    "number": 74,
+    "name": "Loke",
+    "category": "Guder - Loke og familien"
+  },
+  {
+    "number": 75,
+    "name": "Hel",
+    "category": "Guder - Loke og familien"
+  },
+  {
+    "number": 76,
+    "name": "Midgardsormen",
+    "category": "Guder - Loke og familien"
+  },
+  {
+    "number": 77,
+    "name": "Fenrisulven",
+    "category": "Guder - Loke og familien"
+  },
+  {
+    "number": 78,
+    "name": "Hugin & Munin",
+    "category": "Mytiske vesener"
+  },
+  {
+    "number": 79,
+    "name": "Nidhogg",
+    "category": "Mytiske vesener"
+  },
+  {
+    "number": 80,
+    "name": "Garm",
+    "category": "Mytiske vesener"
+  },
+  {
+    "number": 81,
+    "name": "Sleipner",
+    "category": "Mytiske vesener"
+  },
+  {
+    "number": 82,
+    "name": "Ratatosk",
+    "category": "Mytiske vesener"
+  },
+  {
+    "number": 83,
+    "name": "Svadilfare",
+    "category": "Mytiske vesener"
+  },
+  {
+    "number": 84,
+    "name": "Vêrfolne",
+    "category": "Mytiske vesener"
+  },
+  {
+    "number": 85,
+    "name": "Fire hjorter",
+    "category": "Mytiske vesener"
+  },
+  {
+    "number": 86,
+    "name": "Kraken",
+    "category": "Mytiske vesener"
+  },
+  {
+    "number": 87,
+    "name": "Gullfakse",
+    "category": "Mytiske vesener"
+  },
+  {
+    "number": 88,
+    "name": "Svaner fra Hel",
+    "category": "Mytiske vesener"
+  },
+  {
+    "number": 89,
+    "name": "Gyllenbuste",
+    "category": "Mytiske vesener"
+  },
+  {
+    "number": 90,
+    "name": "Hildesvinet",
+    "category": "Mytiske vesener"
+  },
+  {
+    "number": 91,
+    "name": "Skinfakse og Rimfakse",
+    "category": "Mytiske vesener"
+  },
+  {
+    "number": 92,
+    "name": "Fåvne",
+    "category": "Mytiske vesener"
+  },
+  {
+    "number": 93,
+    "name": "Skovnung",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 94,
+    "name": "Mjølner",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 95,
+    "name": "Gjallarhorn",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 96,
+    "name": "Runestein",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 97,
+    "name": "Magisk skjold",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 98,
+    "name": "Gungne",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 99,
+    "name": "Brisingamen",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 100,
+    "name": "Odins øye",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 101,
+    "name": "Trollstav",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 102,
+    "name": "Draupne",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 103,
+    "name": "Vardestein",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 104,
+    "name": "Yggdrasilblad",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 105,
+    "name": "Frøys sverd",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 106,
+    "name": "Seidstav",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 107,
+    "name": "Solstein",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 108,
+    "name": "Ulvetann",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 109,
+    "name": "Hilds spyd",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 110,
+    "name": "Gulltann",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 111,
+    "name": "Agehjelm",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 112,
+    "name": "Vegvisir",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 113,
+    "name": "Gravhaug",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 114,
+    "name": "Seidmerke",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 115,
+    "name": "Forstavn",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 116,
+    "name": "Dvergesmykke",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 117,
+    "name": "Øksesmykke",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 118,
+    "name": "Valknute",
+    "category": "Hellige gjenstander, relikvier og symboler"
+  },
+  {
+    "number": 119,
+    "name": "Harald Hårfagre",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 120,
+    "name": "Erik Raude",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 121,
+    "name": "Lagertha",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 122,
+    "name": "Rollo",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 123,
+    "name": "Håkon den gode",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 124,
+    "name": "Ragnar Lodbrok",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 125,
+    "name": "Tore Hund",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 126,
+    "name": "Ivar Beinlause",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 127,
+    "name": "Bjørn Jernside",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 128,
+    "name": "Olav Tryggvason",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 129,
+    "name": "Gunnhild Kongemor",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 130,
+    "name": "Egil Skallagrimsson",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 131,
+    "name": "Njål Torgeirsson",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 132,
+    "name": "Gunnar på Lidarende",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 133,
+    "name": "Hallgerd Langbrå",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 134,
+    "name": "Snorre Sturlason",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 135,
+    "name": "Leiv Eiriksson",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 136,
+    "name": "Aud den dyptenkte",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 137,
+    "name": "Eirik Blodøks",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 138,
+    "name": "Dronning Åsa",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 139,
+    "name": "Audhild fra Rogaland",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 140,
+    "name": "Njålfrid",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 141,
+    "name": "Gorm den gamle",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 142,
+    "name": "Frøygjerd",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 143,
+    "name": "Hildr av Helgøy",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 144,
+    "name": "Jorun den raske",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 145,
+    "name": "Torleiv Jarlsskald",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 146,
+    "name": "Harald Blåtann",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 147,
+    "name": "Inga av Varteig",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 148,
+    "name": "Sigrid Storråde",
+    "category": "Historiske vikinger og sagahelter"
+  },
+  {
+    "number": 149,
+    "name": "Drakkar",
+    "category": "Skip og reiseruter"
+  },
+  {
+    "number": 150,
+    "name": "Knarr",
+    "category": "Skip og reiseruter"
+  },
+  {
+    "number": 151,
+    "name": "Snekke",
+    "category": "Skip og reiseruter"
+  },
+  {
+    "number": 152,
+    "name": "Langskip",
+    "category": "Skip og reiseruter"
+  },
+  {
+    "number": 153,
+    "name": "Osebergskipet",
+    "category": "Skip og reiseruter"
+  },
+  {
+    "number": 154,
+    "name": "Gokstadskipet",
+    "category": "Skip og reiseruter"
+  },
+  {
+    "number": 155,
+    "name": "Roskilde 6",
+    "category": "Skip og reiseruter"
+  },
+  {
+    "number": 156,
+    "name": "Klåstadskipet",
+    "category": "Skip og reiseruter"
+  },
+  {
+    "number": 157,
+    "name": "Vinlandsruten",
+    "category": "Skip og reiseruter"
+  },
+  {
+    "number": 158,
+    "name": "Dnepr-ruten",
+    "category": "Skip og reiseruter"
+  },
+  {
+    "number": 159,
+    "name": "Novgorod",
+    "category": "Skip og reiseruter"
+  },
+  {
+    "number": 160,
+    "name": "Island",
+    "category": "Skip og reiseruter"
+  },
+  {
+    "number": 161,
+    "name": "Avaldsnes",
+    "category": "Virkelige steder i Norge"
+  },
+  {
+    "number": 162,
+    "name": "Borg",
+    "category": "Virkelige steder i Norge"
+  },
+  {
+    "number": 163,
+    "name": "Gulatinger",
+    "category": "Virkelige steder i Norge"
+  },
+  {
+    "number": 164,
+    "name": "Tønsberg",
+    "category": "Virkelige steder i Norge"
+  },
+  {
+    "number": 165,
+    "name": "Lofoten",
+    "category": "Virkelige steder i Norge"
+  },
+  {
+    "number": 166,
+    "name": "Trondheim",
+    "category": "Virkelige steder i Norge"
+  },
+  {
+    "number": 167,
+    "name": "Stiklestad",
+    "category": "Virkelige steder i Norge"
+  },
+  {
+    "number": 168,
+    "name": "Gokstad",
+    "category": "Virkelige steder i Norge"
+  },
+  {
+    "number": 169,
+    "name": "Kaupang",
+    "category": "Virkelige steder i Norge"
+  },
+  {
+    "number": 170,
+    "name": "Skien",
+    "category": "Virkelige steder i Norge"
+  },
+  {
+    "number": 171,
+    "name": "Oseberg",
+    "category": "Virkelige steder i Norge"
+  },
+  {
+    "number": 172,
+    "name": "Stavanger",
+    "category": "Virkelige steder i Norge"
+  },
+  {
+    "number": 173,
+    "name": "Bergen",
+    "category": "Virkelige steder i Norge"
+  },
+  {
+    "number": 174,
+    "name": "Sarpsborg",
+    "category": "Virkelige steder i Norge"
+  },
+  {
+    "number": 175,
+    "name": "Romsdal",
+    "category": "Virkelige steder i Norge"
+  },
+  {
+    "number": 176,
+    "name": "Mausund",
+    "category": "Virkelige steder i Norge"
+  },
+  {
+    "number": 177,
+    "name": "Mundilfare",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 178,
+    "name": "Sol",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 179,
+    "name": "Måne",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 180,
+    "name": "Kvase",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 181,
+    "name": "Fjalar",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 182,
+    "name": "Galar",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 183,
+    "name": "Einherjar",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 184,
+    "name": "Valkyrje",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 185,
+    "name": "Andvare",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 186,
+    "name": "Alfrigg",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 187,
+    "name": "Dvalin",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 188,
+    "name": "Dag",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 189,
+    "name": "Natt",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 190,
+    "name": "Andrimne",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 191,
+    "name": "Norner",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 192,
+    "name": "Svartalver",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 193,
+    "name": "Draug",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 194,
+    "name": "Brokk",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 195,
+    "name": "Sindre",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 196,
+    "name": "Lysalver",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 197,
+    "name": "Mørkealver",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 198,
+    "name": "Ask og Embla",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 199,
+    "name": "Liv og Livtrase",
+    "category": "Andre vesener og skapninger"
+  },
+  {
+    "number": 200,
+    "name": "Fehu",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 201,
+    "name": "Uruz",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 202,
+    "name": "Thurisaz",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 203,
+    "name": "Ansuz",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 204,
+    "name": "Raidho",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 205,
+    "name": "Kenaz",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 206,
+    "name": "Gebo",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 207,
+    "name": "Wunjo",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 208,
+    "name": "Hagalaz",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 209,
+    "name": "Nauthiz",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 210,
+    "name": "Isa",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 211,
+    "name": "Jera",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 212,
+    "name": "Eihwaz",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 213,
+    "name": "Perthro",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 214,
+    "name": "Algiz",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 215,
+    "name": "Sowilo",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 216,
+    "name": "Tiwaz",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 217,
+    "name": "Berkano",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 218,
+    "name": "Ehwaz",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 219,
+    "name": "Mannaz",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 220,
+    "name": "Laguz",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 221,
+    "name": "Ingwaz",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 222,
+    "name": "Dagaz",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 223,
+    "name": "Othala",
+    "category": "Runer og magi"
+  },
+  {
+    "number": 224,
+    "name": "Voluspå",
+    "category": "Verdens ende - varlsene"
+  },
+  {
+    "number": 225,
+    "name": "Fimbulvinter",
+    "category": "Verdens ende - varlsene"
+  },
+  {
+    "number": 226,
+    "name": "Balders død",
+    "category": "Verdens ende - varlsene"
+  },
+  {
+    "number": 227,
+    "name": "Yggdrasils skjelv",
+    "category": "Verdens ende - varlsene"
+  },
+  {
+    "number": 228,
+    "name": "Fenrisulvens lenker",
+    "category": "Verdens ende - varlsene"
+  },
+  {
+    "number": 229,
+    "name": "Heimdalls horn",
+    "category": "Verdens ende - ragnarok"
+  },
+  {
+    "number": 230,
+    "name": "Valkyrjenes flukt",
+    "category": "Verdens ende - ragnarok"
+  },
+  {
+    "number": 231,
+    "name": "Slaget i ragnarok",
+    "category": "Verdens ende - ragnarok"
+  },
+  {
+    "number": 232,
+    "name": "Odins trone",
+    "category": "Verdens ende - ragnarok"
+  },
+  {
+    "number": 233,
+    "name": "Valhalls porter",
+    "category": "Verdens ende - ragnarok"
+  },
+  {
+    "number": 234,
+    "name": "Gjenfødelsen",
+    "category": "Verdens ende - gjenfødelsen"
+  },
+  {
+    "number": 235,
+    "name": "Den nye begynnelsen",
+    "category": "Verdens ende - gjenfødelsen"
+  },
+  {
+    "number": 236,
+    "name": "Menneskebarnets håp",
+    "category": "Verdens ende - gjenfødelsen"
+  }
+]
